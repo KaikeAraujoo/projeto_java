@@ -1,4 +1,4 @@
-# 🚀 Projeto Java 2026
+#  Projeto Java 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Esta aplicação foi desenvolvida em Java com o objetivo de praticar e demonstrar conceitos fundamentais de programação, incluindo Spring Boot e organização em camadas. O sistema implementa operações de CRUD (Create, Read, Update, Delete), permitindo o cadastro, consulta, atualização e remoção de dados, simulando o funcionamento de aplicações reais e servindo como base para evolução em projetos mais complexos.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 ✔ Estrutura organizada em pacotes  
 ✔ Execução via console  
@@ -23,7 +23,7 @@ Esta aplicação foi desenvolvida em Java com o objetivo de praticar e demonstra
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - ⚙️ Java 21
 - ⚙️ IntelliJ IDEA  
@@ -38,7 +38,7 @@ Esta aplicação foi desenvolvida em Java com o objetivo de praticar e demonstra
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```bash
 src/
@@ -47,7 +47,7 @@ src/
  ├── service/
  └── controller/
 ```
-## ⚙️ Como Executar
+##  Como Executar
 
 🔹 Clone o projeto
 
@@ -75,13 +75,13 @@ spring.jpa.properties.hibernate.form
 ```bash
 ./mvnw spring-boot:run
 ```
-## 📌 Requisição (JSON)
+##  Requisição (JSON)
 
-🚀 TOTAL (Aluno, Professor, Disciplina, Matrícula)
+ TOTAL (Aluno, Professor, Disciplina, Matrícula)
 
 <img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/4b37e93a-da6d-49fa-934a-57f4d1d66629" />
 
-🚀 Criar Aluno 
+ Criar Aluno 
 ```bash
 {
 	"nome": "João da Silva",
@@ -92,7 +92,7 @@ spring.jpa.properties.hibernate.form
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8554c815-9942-40d4-8e38-0701069a5ace" />
 
 
-🚀 Atualizar Aluno 
+ Atualizar Aluno 
 ```bash
 {
 	"nome": "novo nome",
@@ -102,19 +102,19 @@ spring.jpa.properties.hibernate.form
 ```
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7efcc86f-32c1-48e2-89e2-fe963bed321d" />
 
-🚀 Listar Aluno 
+ Listar Aluno 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/33f42700-d1f9-44c9-8f90-ae23559154cb" />
 
-🚀 Buscar Aluno 
+ Buscar Aluno 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e95d0cfe-5278-43b1-9635-c5c22c8a8184" />
 
-🚀 Deletar Aluno 
+ Deletar Aluno 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1acd40fd-8882-4c68-b5c7-daaca7eb465c" />
 
-✨ Criar Professor 
+ Criar Professor 
 ```bash
 {
 	"nome": "João da Silva",
@@ -124,7 +124,7 @@ spring.jpa.properties.hibernate.form
 ```
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a99cae53-6019-4d00-8ade-90aca5dfdedc" />
 
-✨ Atualizar Professor
+ Atualizar Professor
 ```bash
 {
 	"nome": "novo nome",
@@ -134,15 +134,15 @@ spring.jpa.properties.hibernate.form
 ```
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3d4c98b0-5651-45a5-a9ca-236d82c2cd0b" />
 
-✨ Listar Professor
+ Listar Professor
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f6299f6f-a8fb-4b77-a324-478ef09c9533" />
 
-✨ Buscar Professor 
+ Buscar Professor 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/02f1275f-1253-487d-944f-26ca322cd535" />
 
-## 📂 Banco de Dados 
+##  Banco de Dados 
 
 🛠️ Tabela da Disciplina
 
