@@ -84,7 +84,7 @@ spring.jpa.properties.hibernate.form
  Criar Aluno 
 ```bash
 {
-	"nome": "João da Silva",
+	"nome": "Pedro da Silva",
 	"cpf": "00072554469",
 	"email": "joaodasilva@gmail.com"
 }
@@ -116,9 +116,9 @@ spring.jpa.properties.hibernate.form
  Criar Professor 
 ```bash
 {
-	"nome": "João da Silva",
+	"nome": "Pedro da Silva",
 	"cpf": "00072554469",
-	"email": "joaodasilva@gmail.com"
+	"email": "Pedrodasilva@gmail.com"
 }
 ```
 
