@@ -79,7 +79,7 @@ spring.jpa.properties.hibernate.form
 
  TOTAL (Aluno, Professor, Disciplina, Matrícula)
 
-<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/4b37e93a-da6d-49fa-934a-57f4d1d66629" />
+
 
  Criar Aluno 
 ```bash
@@ -89,7 +89,6 @@ spring.jpa.properties.hibernate.form
 	"email": "joaodasilva@gmail.com"
 }
 ```
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8554c815-9942-40d4-8e38-0701069a5ace" />
 
 
  Atualizar Aluno 
@@ -100,19 +99,19 @@ spring.jpa.properties.hibernate.form
 	"email": "novoemail@gmail.com"
 }
 ```
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7efcc86f-32c1-48e2-89e2-fe963bed321d" />
+
 
  Listar Aluno 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/33f42700-d1f9-44c9-8f90-ae23559154cb" />
+
 
  Buscar Aluno 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e95d0cfe-5278-43b1-9635-c5c22c8a8184" />
+
 
  Deletar Aluno 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1acd40fd-8882-4c68-b5c7-daaca7eb465c" />
+
 
  Criar Professor 
 ```bash
@@ -122,7 +121,7 @@ spring.jpa.properties.hibernate.form
 	"email": "joaodasilva@gmail.com"
 }
 ```
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a99cae53-6019-4d00-8ade-90aca5dfdedc" />
+
 
  Atualizar Professor
 ```bash
@@ -132,33 +131,33 @@ spring.jpa.properties.hibernate.form
 	"email": "novoemail@gmail.com"
 }
 ```
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3d4c98b0-5651-45a5-a9ca-236d82c2cd0b" />
+
 
  Listar Professor
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f6299f6f-a8fb-4b77-a324-478ef09c9533" />
+
 
  Buscar Professor 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/02f1275f-1253-487d-944f-26ca322cd535" />
+
 
 ##  Banco de Dados 
 
 🛠️ Tabela da Disciplina
 
-<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/8a1d0b02-a2a9-4300-a660-5e5c7666cbdf" />
+
 
 🛠️ Tabela da Matrícula 
 
-<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/77f2a94c-7c07-4666-a3a6-a8a3a5b79713" />
+
 
 🛠️ Tabela do Aluno 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1878da03-b716-440e-a92d-405e4ad6689f" />
+
 
 🛠️ Tabela do Professor 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/705949e2-e065-4d80-9c23-5dc4bc2629f5" />
+
 
 
 ## 🔹 ALUNO
